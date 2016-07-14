@@ -1,0 +1,12 @@
+{
+  "name"         : "scraping",
+  "version"      : "0.0.1",
+  "description"  : "Scrape the web.",
+  "main"         : "scraping.js",
+  "author"       : "Pablo Cortez",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
